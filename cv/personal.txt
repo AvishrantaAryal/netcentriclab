@@ -1,0 +1,5 @@
+<dd>
+<p>1.Honesty</p>
+<p>2.Team Spirit</p>
+<p>3.Problem Solving</p>
+</dd>
