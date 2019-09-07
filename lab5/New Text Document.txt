@@ -1,0 +1,10 @@
+1.create a form to get inputs from user on the following field and store thrse data in file
+first name
+lastname
+class 
+section 
+marks in subject
+
+
+
+Display the information in the form of report card with the calculated values on % division and other related field  
